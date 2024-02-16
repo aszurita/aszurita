@@ -1,7 +1,7 @@
 <h1>Hi👋, I'm Angelo Zurita<h1>
 <h2> About Me </h2>
   
-Computer Science Student - ESPOL 🐢
+Computer Science Student - ESPOL 🇪🇨 🐢
 
 💻 Tech Enthusiast
   
