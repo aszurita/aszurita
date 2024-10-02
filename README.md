@@ -1,14 +1,14 @@
 <H1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/angelo-saul-zurita-guerrero/" target="_blank">Angelo Zurita</a> 👨🏻‍💻</H1>
 
-
 <div align="center">
   <img align="left" src="https://media.licdn.com/dms/image/v2/D4E03AQF5PM5lRUn_dA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718305802955?e=1733356800&v=beta&t=77pU6zvhzuRVW-sTMQuDPsiREH_E2YgZz_4To9nX7Mc" width="200">
   <div align="center"> 
-    A Computer Science student from Ecuador with a strong passion for programming and artificial intelligence. Currently, I serve as the Vice President of TAWS and a Teaching Assistant at ESPOL, where I lead research projects and support students in their learning journey. I am particularly interested in data science and computer vision, and I actively seek opportunities to apply my skills in real-world projects. I'm excited to connect and collaborate with others in the tech community! 🚀
+    <br>
+    <br>
+    <p>A Computer Science student from Ecuador with a strong passion for programming and artificial intelligence. Currently, I serve as the Vice President of TAWS and a Teaching Assistant at ESPOL, where I lead research projects and support students in their learning journey. I am particularly interested in data science and computer vision, and I actively seek opportunities to apply my skills in real-world projects. I'm excited to connect and collaborate with others in the tech community! 🚀</p>
   </div>
 </div>
 <br clear="left">
-
 
 
 ## 🌐 Socials:
