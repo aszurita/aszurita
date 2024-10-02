@@ -1,8 +1,13 @@
 <div align="center">
-  
-  | [About Me](#aboutme) | [Socials](#-socials) | [Tech Stack](#-tech-stack) | [GitHub Stats](#-github-stats) | [Projects](#-projects) |
-  |:---------------------:|:---------------------:|:--------------------------:|:------------------------------:|:------------------------:|
-
+  <table>
+    <tr>
+      <td><a href="#aboutme">About Me</a></td>
+      <td><a href="#-socials">Socials</a></td>
+      <td><a href="#-tech-stack">Tech Stack</a></td>
+      <td><a href="#-github-stats">GitHub Stats</a></td>
+      <td><a href="#-projects">Projects</a></td>
+    </tr>
+  </table>
 </div>
 
 <H1 align="center" id="aboutme"> 
