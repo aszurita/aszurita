@@ -6,8 +6,7 @@
 </div>
 
 
-
-<H1 align="center" id="aboutme" > Hi, I'm <a href="https://www.linkedin.com/in/angelo-saul-zurita-guerrero/" target="_blank">Angelo Zurita</a> 👨🏻‍💻</H1>
+<H1 align="center" id="aboutme" > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,&nbsp I'm <a href="https://www.linkedin.com/in/angelo-saul-zurita-guerrero/" target="_blank">Angelo Zurita</a> 👨🏻‍💻</H1>
 <div align="center">
   <div align="left">
     <img align="left" src="https://media.licdn.com/dms/image/v2/D4E03AQF5PM5lRUn_dA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718305802955?e=1733356800&v=beta&t=77pU6zvhzuRVW-sTMQuDPsiREH_E2YgZz_4To9nX7Mc" width="160">
