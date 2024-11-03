@@ -58,3 +58,17 @@
 
 ## 📂 Projects:
 
+
+## Organizations: 
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center;">DESARROLLO DE APLICACIONES WEB Y MÓVILES - II PAO 2024</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/38d43bd9-8620-48d2-bf26-25868e3c371f" width="50" height="50" alt="Imagen"></td>
+    <td><a href="https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles">DESARROLLO DE APLICACIONES WEB Y MÓVILES</a></td>
+  </tr>
+</table>
+
+
+
