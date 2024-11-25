@@ -1,14 +1,14 @@
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px; background: linear-gradient(to right, #1a237e, #0d47a1); padding: 20px; border-radius: 8px; margin: 20px 0;">
     <a href="#aboutMe" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">About Me</a>
     <a href="#🚀-tech-stack" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Tech Stack</a>
     <a href="#github-stats" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">GitHub Stats</a>
     <a href="#projects" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Projects</a>
     <a href="#skills-and-tools-recently-learned" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Recently Learned</a>
   </div>
-  </br>
+
   <div align="center">
-    <H1 align="center" id="aboutMe" > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,&nbsp I'm <a href="https://www.linkedin.com/in/angelo-saul-zurita-guerrero/" target="_blank">Angelo Zurita</a> 👨🏻‍💻</H1>
+    <H1 align="center" id="aboutMe" > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://www.linkedin.com/in/angelo-saul-zurita-guerrero/" target="_blank">Angelo Zurita</a> 👨🏻‍💻</H1>
     <div align="center" style="display: flex; justify-content: center; gap: 20px;">
       <div>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=769EC1&center=true&width=435&lines=%F0%9F%92%BB+Computer+Science+Student;%F0%9F%93%8A+Passionate+about+Data+Science;%F0%9F%A4%96+Exploring+Artificial+Intelligence;%F0%9F%8E%93+Teaching+Assistant+at+ESPOL" alt="Typing SVG" />
@@ -41,6 +41,7 @@
       </div>
     </div>  
   </div>
+
 
   <h2 align="center" id="🚀-tech-stack"> 🚀 Tech Stack </h2>
 
@@ -78,6 +79,7 @@
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </div>
+
 
   <h2 align="center" id="github-stats"> 📊 Stats </h2>
   <br>
@@ -168,6 +170,7 @@
   </table>
 
   </div>
+
 
   <div align="center">
   <h2 align="center" id="projects"> 📚 Skills and Tools Recently Learned </h2>
