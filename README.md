@@ -173,8 +173,7 @@
 
 
   <div align="center">
-  <h2 align="center" id="projects"> 📚 Skills and Tools Recently Learned </h2>
-
+  <h2 align="center" id="skills-and-tools-recently-learned"> 📚 Skills and Tools Recently Learned </h2>
   <table>
   <thead>
     <tr>
