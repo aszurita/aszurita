@@ -3,8 +3,8 @@
     <a href="#aboutMe" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">About Me</a>
     <a href="#🚀-tech-stack" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Tech Stack</a>
     <a href="#github-stats" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">GitHub Stats</a>
-    <a href="#💻-projects" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Projects</a>
-    <a href="#📚-skills-and-tools-recently-learned" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Recently Learned</a>
+    <a href="#projects" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Projects</a>
+    <a href="#skills-and-tools-recently-learned" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Recently Learned</a>
   </div>
   </br>
   <div align="center">
@@ -42,9 +42,44 @@
     </div>  
   </div>
 
-  ## 🚀 Tech Stack:
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <h2 align="center" id="🚀-tech-stack"> 🚀 Tech Stack </h2>
+
+  <div>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+      <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX">
+      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+      <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy">
+      <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="mlflow">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </div>
+
 
   <h2 align="center" id="github-stats"> 📊 Stats </h2>
   <br>
@@ -69,28 +104,179 @@
 
   <div align="center">
 
-  ## 💻 Projects
+  <h2 align="center" id="projects"> 💻 Projects </h2>
 
-  |![Project Preview](assets/P0.png)|<h3>Profile README - Personal GitHub Portfolio</h3><p>Consists of my personalized profile README, designed to showcase who I am, my skills, and the projects I have developed.</p>![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>[![Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github)](https://github.com/aszurita/aszurita) [![Preview](https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages)](https://aszurita.github.io/aszurita/)|
-  |:---:|:---|
-  |![Project Preview](assets/P1.png)|<h3>Personal Portfolio</h3><p>This personal portfolio showcases my skills, experience, and key projects, providing a clear view of my professional journey and enabling collaboration opportunities.</p>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>[![Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github)](https://github.com/aszurita/curriculum) [![Preview](https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages)](https://aszurita.github.io/curriculum/)|
-  |![Project Preview](assets/P0.png)|<h3>Shop Taws</h3><p>This project is a landing page designed for selling Taws merchandise, providing an attractive and functional space where users can explore and purchase official products</p>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>[![Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github)](https://github.com/tuUsuario/tuRepo) [![Preview](https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages)](https://tuUsuario.github.io/tuRepo)|
+  <table>
+    <tr>
+      <td>
+        <img src="assets/P0.png" alt="Project Preview">
+      </td>
+      <td>
+        <h3>Profile README - Personal GitHub Portfolio</h3>
+        <p>Consists of my personalized profile README, designed to showcase who I am, my skills, and the projects I have developed.</p>
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <br><br>
+        <a href="https://github.com/aszurita/aszurita">
+          <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github" alt="Code">
+        </a>
+        <a href="https://aszurita.github.io/aszurita/">
+          <img src="https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages" alt="Preview">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="assets/P1.png" alt="Project Preview">
+      </td>
+      <td>
+        <h3>Personal Portfolio</h3>
+        <p>This personal portfolio showcases my skills, experience, and key projects, providing a clear view of my professional journey and enabling collaboration opportunities.</p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <br><br>
+        <a href="https://github.com/aszurita/curriculum">
+          <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github" alt="Code">
+        </a>
+        <a href="https://aszurita.github.io/curriculum/">
+          <img src="https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages" alt="Preview">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="assets/P0.png" alt="Project Preview">
+      </td>
+      <td>
+        <h3>Shop Taws</h3>
+        <p>This project is a landing page designed for selling Taws merchandise, providing an attractive and functional space where users can explore and purchase official products.</p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <br><br>
+        <a href="https://github.com/tuUsuario/tuRepo">
+          <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github" alt="Code">
+        </a>
+        <a href="https://tuUsuario.github.io/tuRepo">
+          <img src="https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages" alt="Preview">
+        </a>
+      </td>
+    </tr>
+  </table>
 
   </div>
 
 
   <div align="center">
+  <h2 align="center" id="projects"> 📚 Skills and Tools Recently Learned </h2>
 
-  ## 📚 Skills and Tools Recently Learned
-
-  | **Technology**         | **Badge**                                                                                                     | **Usage**                                      | **Projects**                                                                                         |
-  |-------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------|
-  | **Markdown**           | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | Documentation and profile design of readmes            | [![ProfileReadme](https://img.shields.io/badge/Profile%20README-lightblue?style=for-the-badge)](https://aszurita.github.io/aszurita/) |
-  | **HTML5**              | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)       | Web structure                                 | [![ProfileReadme](https://img.shields.io/badge/Profile%20README-lightblue?style=for-the-badge)](https://aszurita.github.io/aszurita/) [![PersonalPortfolio](https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge)](https://aszurita.github.io/curriculum/) [![ShopTaws](https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge)](https://tuUsuario.github.io/tuRepo/) |
-  | **CSS3**               | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)           | Giving visual and appealing styles to my HTML elements             | [![PersonalPortfolio](https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge)](https://aszurita.github.io/curriculum/) [![ShopTaws](https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge)](https://tuUsuario.github.io/tuRepo/) |
-  | **Bootstrap**          | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | Responsive design and quick styling           | [![ShopTaws](https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge)](https://tuUsuario.github.io/tuRepo/) |
-  | **JavaScript**         | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Dynamic behavior and functionality            | [![PersonalPortfolio](https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge)](https://aszurita.github.io/curriculum/) [![ShopTaws](https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge)](https://tuUsuario.github.io/tuRepo/) |
-  | **GitHub**             | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    | Version control and project deployment        | [![ProfileReadme](https://img.shields.io/badge/Profile%20README-lightblue?style=for-the-badge)](https://aszurita.github.io/aszurita/) [![PersonalPortfolio](https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge)](https://aszurita.github.io/curriculum/) [![ShopTaws](https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge)](https://tuUsuario.github.io/tuRepo/) |
+  <table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Badge</strong></th>
+      <th><strong>Usage</strong></th>
+      <th><strong>Projects</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Markdown</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+      </td>
+      <td>Documentation and profile design of readmes</td>
+      <td>
+        <a href="https://aszurita.github.io/aszurita/">
+          <img src="https://img.shields.io/badge/Profile%20README-lightblue?style=for-the-badge" alt="Profile README">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>HTML5</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      </td>
+      <td>Web structure</td>
+      <td>
+        <a href="https://aszurita.github.io/aszurita/">
+          <img src="https://img.shields.io/badge/Profile%20README-lightblue?style=for-the-badge" alt="Profile README">
+        </a>
+        <a href="https://aszurita.github.io/curriculum/">
+          <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
+        </a>
+        <a href="https://tuUsuario.github.io/tuRepo/">
+          <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>CSS3</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </td>
+      <td>Giving visual and appealing styles to my HTML elements</td>
+      <td>
+        <a href="https://aszurita.github.io/curriculum/">
+          <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
+        </a>
+        <a href="https://tuUsuario.github.io/tuRepo/">
+          <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Bootstrap</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      </td>
+      <td>Responsive design and quick styling</td>
+      <td>
+        <a href="https://tuUsuario.github.io/tuRepo/">
+          <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      </td>
+      <td>Dynamic behavior and functionality</td>
+      <td>
+        <a href="https://aszurita.github.io/curriculum/">
+          <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
+        </a>
+        <a href="https://tuUsuario.github.io/tuRepo/">
+          <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>GitHub</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </td>
+      <td>Version control and project deployment</td>
+      <td>
+        <a href="https://aszurita.github.io/aszurita/">
+          <img src="https://img.shields.io/badge/Profile%20README-lightblue?style=for-the-badge" alt="Profile README">
+        </a>
+        <a href="https://aszurita.github.io/curriculum/">
+          <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
+        </a>
+        <a href="https://tuUsuario.github.io/tuRepo/">
+          <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
   </div>
 </div>
