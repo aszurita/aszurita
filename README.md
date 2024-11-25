@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(to right, #1a237e, #0d47a1); padding: 20px; border-radius: 8px; margin: 20px 0;">
+<div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="#aboutMe" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">About Me</a>
     <a href="#🚀-tech-stack" style="color: #fff; text-decoration: none; font-weight: 500; padding: 8px 16px; border-radius: 4px; transition: all 0.3s ease; background-color: rgba(255, 255, 255, 0.1);" onmouseover="this.style.backgroundColor='rgba(255, 255, 255, 0.2)'" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.1)'">Tech Stack</a>
@@ -42,7 +42,6 @@
     </div>  
   </div>
 
-
   <h2 align="center" id="🚀-tech-stack"> 🚀 Tech Stack </h2>
 
   <div>
@@ -79,7 +78,6 @@
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </div>
-
 
   <h2 align="center" id="github-stats"> 📊 Stats </h2>
   <br>
@@ -170,7 +168,6 @@
   </table>
 
   </div>
-
 
   <div align="center">
   <h2 align="center" id="projects"> 📚 Skills and Tools Recently Learned </h2>
