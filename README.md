@@ -148,7 +148,7 @@
     </tr>
     <tr>
       <td>
-        <img src="assets/P0.png" alt="Project Preview">
+        <img src="https://github.com/user-attachments/assets/e9b8db6a-67a4-41d2-8fc5-9a1f5cc49e88" alt="Project Preview">
       </td>
       <td>
         <h3>Shop Taws</h3>
