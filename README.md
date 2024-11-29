@@ -209,7 +209,7 @@
         <a href="https://aszurita.github.io/curriculum/">
           <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
         </a>
-        <a href="https://aszurita.github.io/lading/">
+        <a href="https://aszurita.github.io/landing/">
           <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
         </a>
       </td>
@@ -236,7 +236,7 @@
       </td>
       <td>Responsive design and quick styling</td>
       <td>
-        <a href="https://tuUsuario.github.io/tuRepo/">
+        <a href="https://aszurita.github.io/landing/">
           <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
         </a>
       </td>
