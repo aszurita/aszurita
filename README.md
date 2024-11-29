@@ -159,10 +159,10 @@
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <br><br>
-        <a href="https://github.com/tuUsuario/tuRepo">
+        <a href="https://github.com/aszurita/landing">
           <img src="https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github" alt="Code">
         </a>
-        <a href="https://tuUsuario.github.io/tuRepo">
+        <a href="https://aszurita.github.io/landing">
           <img src="https://img.shields.io/badge/Preview-blue?style=for-the-badge&logo=github-pages" alt="Preview">
         </a>
       </td>
@@ -209,7 +209,7 @@
         <a href="https://aszurita.github.io/curriculum/">
           <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
         </a>
-        <a href="https://tuUsuario.github.io/tuRepo/">
+        <a href="https://aszurita.github.io/lading/">
           <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
         </a>
       </td>
@@ -224,7 +224,7 @@
         <a href="https://aszurita.github.io/curriculum/">
           <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
         </a>
-        <a href="https://tuUsuario.github.io/tuRepo/">
+        <a href="https://aszurita.github.io/landing/">
           <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
         </a>
       </td>
@@ -251,7 +251,7 @@
         <a href="https://aszurita.github.io/curriculum/">
           <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
         </a>
-        <a href="https://tuUsuario.github.io/tuRepo/">
+        <a href="https://aszurita.github.io/landing/">
           <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
         </a>
       </td>
@@ -269,7 +269,7 @@
         <a href="https://aszurita.github.io/curriculum/">
           <img src="https://img.shields.io/badge/Personal%20Portfolio-fcffff?style=for-the-badge" alt="Personal Portfolio">
         </a>
-        <a href="https://tuUsuario.github.io/tuRepo/">
+        <a href="https://aszurita.github.io/landing/">
           <img src="https://img.shields.io/badge/Shop%20Taws-c4dafa?style=for-the-badge" alt="Shop Taws">
         </a>
       </td>
